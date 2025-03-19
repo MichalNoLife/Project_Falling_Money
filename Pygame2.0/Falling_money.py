@@ -50,6 +50,9 @@ BLACK = (0, 0, 0)
 GOLD = (255, 215, 0) 
 RUBY = (224, 17, 95)
 RED = (255, 0, 0)
+
+#hhh
+
 # Font
 font = pygame.font.Font(None, 36)
 
